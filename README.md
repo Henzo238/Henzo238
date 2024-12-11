@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Henzo238
-- 👀 I’m interested in practicing football, 
+- 👋 Hi, I’m Henzo
+- 👀 I’m interested in practicing football, learning new things and personal development
 - 🌱 I’m currently learning how to be a web developer
-- 💞️ I’m looking to collaborate on projects in order to learn to gain experiences
+- 💞️ I’m looking to collaborate on projects in order to learn and gain experiences
 - 📫 How to reach me : LinkedIn (https://www.linkedin.com/in/henzo-goncalves-444238270/)
 
 <!---
