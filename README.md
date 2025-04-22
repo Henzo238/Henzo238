@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henzo<br>- 👀 I’m interested in practicing football, learning new things and personal development<br>- 🌱 I’m currently learning how to be a web developer<br>- 💞️ I’m looking to collaborate on projects in order to learn and gain experiences
+- <h1>👋 Hi, I’m Henzo</h1><br>- 👀 I’m interested in practicing football, learning new things and personal development<br>- 🌱 I’m currently learning how to be a web developer<br>- 💞️ I’m looking to collaborate on projects in order to learn and gain experiences
 
 
 ## 🌐 Socials:
